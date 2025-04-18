@@ -19,7 +19,7 @@ A PyQt5-based GUI application for batch processing images using the `realesrgan-
   - PyQt5
   - psutil
 - **External Tools**:
-  - `realesrgan-ncnn-vulkan.exe` (download from the [Real-ESRGAN-ncnn-vulkan](https://github.com/xinntao/Real-ESRGAN-ncnn-vulkan) repository)
+  - `realesrgan-ncnn-vulkan.exe` (download from the [Real-ESRGAN-ncnn-vulkan](https://github.com/xinntao/Real-ESRGAN) repository)
   - NVIDIA GPU with `nvidia-smi` for GPU monitoring (optional)
 - **Model Files**: Real-ESRGAN models (e.g., `realesrgan-x4plus-anime.param` and `.bin`)
 
@@ -37,7 +37,7 @@ A PyQt5-based GUI application for batch processing images using the `realesrgan-
    ```
 
 3. **Download `realesrgan-ncnn-vulkan`**:
-   - Download the latest `realesrgan-ncnn-vulkan` executable from the [Real-ESRGAN-ncnn-vulkan releases page](https://github.com/xinntao/Real-ESRGAN-ncnn-vulkan/releases).
+   - Download the latest `realesrgan-ncnn-vulkan` executable from the [Real-ESRGAN-ncnn-vulkan releases page](https://github.com/xinntao/Real-ESRGAN).
    - Place `realesrgan-ncnn-vulkan.exe` in the project root directory.
 
 4. **Download Model Files**:
